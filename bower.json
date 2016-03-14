@@ -1,0 +1,21 @@
+{
+  "name": "angular-bubble-game",
+  "homepage": "https://github.com/st2forget/angular-bubble-game",
+  "authors": [
+    "st2forget <hoanggia.lh@gmail.com>"
+  ],
+  "description": "An English Bubble word game",
+  "main": "directive.js",
+  "moduleType": [],
+  "keywords": [
+    "bubble"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
